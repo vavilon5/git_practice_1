@@ -1,6 +1,6 @@
 # header changed by person3
 print('start')
-print('a')
+print('a from B')
 print('b')
 print('c')
 print('d')
