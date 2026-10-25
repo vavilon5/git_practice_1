@@ -1,7 +1,7 @@
 # header changed by person3
 print('start')
 print('a from A')
-print('a from B')
+print('b from D')
 print('b')
 print('c')
 print('d')
