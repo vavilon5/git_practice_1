@@ -2,7 +2,7 @@
 print('start')
 print('a from A')
 print('b from C')
-print('b')
+print('c from E')
 print('c')
 print('d')
 print('e')
